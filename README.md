@@ -9,7 +9,7 @@
 - **AI융합 Capstone Design - LLM 기반 대학 학사공지 질의응답시스템 개발** | 대상 | 2024.03 ~ 2024.12 | Project Manager & LLM, Graph RAG - Developer |
 - **Web SW Studio - 서초구청 민원 챗봇 Web 개발** | 2024.09 ~ 2024.12 | Backend & LLM - Developer |
 - **Database - JDBC 직원검색시스템 개발** | 2023.10 ~ 2023.12 | JAVA (MySQL) - Developer |
-- **산학프로젝트 - Block Coding 기반 교육용 Application 개발** | 2023.03 ~ 2023.06 | Project Manager & Backend Developer |
+- **산학프로젝트 - Block Coding 기반 교육용 Application 개발** | 2023.03 ~ 2023.06 | Project Manager & Backend Developer | [활동 기록](https://github.com/630hyuk/Block-Coding-Application) 
 
 
 ##
