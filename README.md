@@ -6,7 +6,7 @@
 - **한국항공대학교 소프트웨어학과 (공학사)** | 2018.03 ~ 2025.02 |
 
 ## 🔖 Project (Korea Aerosapce Univ✈️)
-- **AI융합 Capstone Design - LLM 기반 대학 학사공지 질의응답시스템 개발** | 대상 | 2024.03 ~ 2024.12 | Project Manager & LLM, Graph RAG - Developer |
+- **AI융합 Capstone Design - LLM 기반 대학 학사공지 질의응답시스템 개발** | 대상 | 2024.03 ~ 2024.12 | Project Manager & LLM, Graph RAG - Developer | [활동 기록](https://github.com/630hyuk/2024-AI-Capstone-Design) 
 - **Web SW Studio - 서초구청 민원 챗봇 Web 개발** | 2024.09 ~ 2024.12 | Backend & LLM - Developer | [활동 기록](https://github.com/Seocho-gu-Chatbot/Front-end) 
 - **Database - JDBC 직원검색시스템 개발** | 2023.10 ~ 2023.12 | JAVA (MySQL) - Developer | [활동 기록](https://github.com/630hyuk/Database---JDBC-Programming) 
 - **산학프로젝트 - Block Coding 기반 교육용 Application 개발** | 2023.03 ~ 2023.06 | Project Manager & Backend Developer | [활동 기록](https://github.com/630hyuk/Block-Coding-Application) 
