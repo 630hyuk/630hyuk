@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=auto&height=300&section=header&text=Welcome~&fontSize=150&animation=fadeIn&fontAlignY=30&desc=hanhyuk's%20GitHub%20Profile&descAlignY=51&descAlign=70)
 
 # <h3><b> :books: Education </b></h3>
